@@ -3,7 +3,7 @@
         <GitHub />
 
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">OW Team Picker</h5>
-        <p class="font-normal text-gray-400 mb-5">A simple tool to allow you to build your perfect team.</p>
+        <p class="font-normal text-gray-400 mb-5">A simple tool to allow you to build your perfect team on Overwatch 2.</p>
 
         <div class="checkboxes flex flex-col">
             <label class="inline-flex items-center cursor-pointer my-1" v-for="(item, index) in checkboxes" :key="index">
